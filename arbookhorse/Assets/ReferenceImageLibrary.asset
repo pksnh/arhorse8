@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5472806708996824317
+  m_GuidHigh: 8053403088752764086
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5210373748529190223
+      m_GuidHigh: 11479542631609947786
+    m_SerializedTextureGuid:
+      m_GuidLow: 8859804159429535971
+      m_GuidHigh: 16006546298088562072
+    m_Size: {x: 0.2, y: 0.24526528}
+    m_SpecifySize: 1
+    m_Name: poster_01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5683712123363555722
+      m_GuidHigh: 8189197005918051988
+    m_SerializedTextureGuid:
+      m_GuidLow: 9530864585908257775
+      m_GuidHigh: 15139218352164586760
+    m_Size: {x: 0.2, y: 0.24646048}
+    m_SpecifySize: 1
+    m_Name: poster_02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5238317081053037039
+      m_GuidHigh: 15824719800383244457
+    m_SerializedTextureGuid:
+      m_GuidLow: 55196488896534901
+      m_GuidHigh: 15066366483909205880
+    m_Size: {x: 0.2, y: 0.2463531}
+    m_SpecifySize: 1
+    m_Name: poster_03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5636096094926962246
+      m_GuidHigh: 13288965065199203465
+    m_SerializedTextureGuid:
+      m_GuidLow: 12877151686812094702
+      m_GuidHigh: 746274720207138617
+    m_Size: {x: 0.2, y: 0.2432505}
+    m_SpecifySize: 1
+    m_Name: poster_04
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4854264281800155963
+      m_GuidHigh: 2746405063537385606
+    m_SerializedTextureGuid:
+      m_GuidLow: 1487494141389067465
+      m_GuidHigh: 9000078818633590523
+    m_Size: {x: 0.2, y: 0.24595688}
+    m_SpecifySize: 1
+    m_Name: poster_05
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5586930920399129252
+      m_GuidHigh: 6290996392940786570
+    m_SerializedTextureGuid:
+      m_GuidLow: 14084058557265517729
+      m_GuidHigh: 15021061207775681240
+    m_Size: {x: 0.2, y: 0.24475618}
+    m_SpecifySize: 1
+    m_Name: poster_06
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4877701065694801712
+      m_GuidHigh: 1237889410315701435
+    m_SerializedTextureGuid:
+      m_GuidLow: 10935939628040980654
+      m_GuidHigh: 1797376037743398120
+    m_Size: {x: 0.2, y: 0.24383378}
+    m_SpecifySize: 1
+    m_Name: poster_07
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4888405104989643209
+      m_GuidHigh: 17108822471321423495
+    m_SerializedTextureGuid:
+      m_GuidLow: 10210998729946105872
+      m_GuidHigh: 11309677774408433960
+    m_Size: {x: 0.2, y: 0.24282801}
+    m_SpecifySize: 1
+    m_Name: poster_08
+    m_Texture: {fileID: 0}
