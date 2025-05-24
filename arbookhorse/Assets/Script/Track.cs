@@ -48,24 +48,24 @@ public class Track : MonoBehaviour
                 o.transform.position = t.transform.position;
                 o.transform.rotation = t.transform.rotation;
 
-                o.SetActive(true);
+                o.SetActive(true); // 이미지 추적 성공 시 AR 정보 표출
             }
             else
             {
-                o.SetActive(false);
+                o.SetActive(false); // 이미지 추적 실패 시 AR 정보 끔
             }
         }
     }
 
     private void OnChanged(ARTrackedImagesChangedEventArgs args)
     {
-        foreach (ARTrackedImage t in args.added) 
+        foreach (ARTrackedImage t in args.added) // 새로운 이미지 감지 시
         {
             UpdateImage(t);
             //UpdateSound(t);
         }
 
-        foreach (ARTrackedImage t in args.updated)
+        foreach (ARTrackedImage t in args.updated) // 이전에 감지한 이미지를 감지할 경우
         {
             UpdateImage(t);
         }
